@@ -1,5 +1,5 @@
-HackMTY 2025 – Monorepo Template
-
+HackMTY 2025 – Monorepo Template  a
+<p align="center"> <img src="./docs/images/banner.png" alt="Banner del Equipo UdeCode" width="600"/> </p>
 Monorepo para prototipar rápido en hackathon con:
 - Backend: FastAPI + SQLAlchemy + SQLite (local) y Postgres (opcional)
 - Frontend: React + Vite (TypeScript)
